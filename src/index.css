@@ -17,4 +17,7 @@
   height: 70px;
   background-color: aqua;
   display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex-grow: inherit;
 }
